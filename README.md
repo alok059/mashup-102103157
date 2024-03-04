@@ -6,11 +6,12 @@ Mashup Creator is a tool that allows users to create audio mashups from YouTube 
 ## Features
 
 - Search YouTube for videos of a specific singer
-- Download YouTube videos as audio files
+- Download YouTube videos 
 - Convert videos to audio files
-- Cut a specified duration from each audio file
+- Cut a specified duration timeframe from  audio file
 - Merge audio files into a single mashup
 - Save the resulting mashup to a specified output file
+- All within a single cmd line
 
 ## Requirements
 
